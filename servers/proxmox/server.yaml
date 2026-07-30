@@ -15,7 +15,7 @@ about:
 source:
   project: https://github.com/GethosTheWalrus/proxmox-mcp
   branch: main
-  commit: 060b7f5bbbf14bb69f1dac928f1566125e0b03b5
+  commit: 1fba3fa1701d8069db8ad1de5adce350c5b9f44d
 config:
   description: Configure the connection to Proxmox VE
   secrets:
